@@ -1,0 +1,19 @@
+/*background #E5E5E5*/
+/*secondary background color #F7F7F7*/
+/*main white text color rgba(255, 255, 255, 1)*/
+/*secondary white text color  rgba(255, 108, 0, 1)*/
+/*dark text color #303030*/
+/*secondary dark text color  rgba(85, 85, 85, 1)*/
+/*accent text color rgba(157, 164, 189, 1)*/
+/*accent color rgba(255, 108, 0, 1)*/
+
+:root{
+--primary-background-color:  #E5E5E5;
+--secondary-background-color: #F7F7F7;
+--main-text-color-light:#ffffff;
+--secondary-text-color-light: #9DA4BD;
+--primary-text-color-dark:  #303030;
+--secondary-text-color-dark:  #555555;
+--accent-color:#FF6C00;
+
+}
